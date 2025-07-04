@@ -6,3 +6,4 @@ joblib
 os
 pandas
 matplotlib
+nltk
